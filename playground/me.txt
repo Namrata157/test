@@ -1,0 +1,3 @@
+Name: Namrata Mahajan
+Skills: Java, SQL, Selenium, TestNG, Maven, Github, Jenkins, Postman, RestAssured, Cypress, Jira
+Email: namratam2296@gmail.com
